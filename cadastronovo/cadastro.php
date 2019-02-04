@@ -1,5 +1,5 @@
 <?php session_start() ?>
-<?php include_once 'include/header_inc.php' ?>  <!-- botei em include , pq levei esculacho -->
+<?php include_once 'include/header_inc.php' ?>
 <?php include_once 'include/menu_inc.php' ?>
            <!--formulario de cadastro-->
            <div class="row container">
